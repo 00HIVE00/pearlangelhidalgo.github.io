@@ -1,6 +1,6 @@
 User-agent: *
-Disallow: /admin/  # Block access to the admin directory
-Disallow: /private/  # Block access to the private directory (if applicable)
-Allow: /  # Allow access to the root directory
+Disallow: /admin/ 
+Disallow: /private/  
+Allow: /  
 
-Sitemap: http://pearlangelhidalgo.site/sitemap.xml  # Provide your sitemap location (replace with actual URL)
+Sitemap: http://pearlangelhidalgo.site/sitemap.xml  
