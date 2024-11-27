@@ -20,7 +20,14 @@
     </url>
     
     <url>
-        <loc>https://pearlangelhidalgo.site/service.html</loc>
+        <loc>https://pearlangelhidalgo.site/services.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <lastmod>2024-11-01</lastmod>
+    </url>
+        
+    <url>
+        <loc>https://pearlangelhidalgo.site/tools.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         <lastmod>2024-11-01</lastmod>
